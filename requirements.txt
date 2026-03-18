@@ -1,0 +1,3 @@
+# Python >= 3.10
+# tkinter est inclus dans Python standard sur Windows
+# Pour futurs développements GUI
