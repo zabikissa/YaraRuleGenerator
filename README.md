@@ -15,7 +15,7 @@ Générateur interactif de règles YARA en Python.
 1. Cloner le repo :
 
 ```bash
-git clone https://github.com/<votre-utilisateur>/YaraRuleGenerator.git
+git clone https://github.com/zabikissa/YaraRuleGenerator.git
 cd YaraRuleGenerator
 
 
