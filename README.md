@@ -10,21 +10,19 @@ Générateur interactif de règles YARA en Python.
 - Sauvegarde automatique dans `rules/`
 - Interface CLI simple et professionnelle
 
-==>Installation
+##Installation
 
 1. Cloner le repo :
 
-```bash
 git clone https://github.com/zabikissa/YaraRuleGenerator.git
 cd YaraRuleGenerator
-
 
 2. Installer Python 3.10+ (Windows)
 
 3. Lancer le générateur :
    python src/yara_generator.py
 
-==> Utilisation
+## Utilisation
 
 1. Répondre aux questions : Nom, Tags, Description, Chaînes, Condition
 2. Voir l’aperçu
@@ -32,10 +30,7 @@ cd YaraRuleGenerator
 4. La règle sera disponible dans rules/ et prête à être déployée
 
 
-
-
-
-Exemple d'usage
+##Exemple d'usage
 
 Nom:
 Exemples: (Trojan_Win32_Agent,Ransomware_Lockbit,Backdoor_Python,TestRule) : TestRule
